@@ -1,3 +1,12 @@
+## Languages and tools
+
+<!-- Languages -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r" />
+  </a>
+</p>
+
 ## Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/estefania-sauceda-camacho-986176278/">
